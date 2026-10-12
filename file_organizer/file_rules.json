@@ -1,0 +1,9 @@
+{
+    ".py": "CodeDir_Path",
+    ".cpp": "CodeDir_Path",
+    ".c": "CodeDir_Path",
+    ".jpg": "ImageDir_Path",
+    ".txt": "TextDir_Path",
+    ".csv": "DataDir_Path",
+    ".json": "DataDir_Path"
+}

@@ -1,0 +1,19 @@
+# Python 虚拟环境
+.venv/
+
+# Python 和 pytest 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# 文件整理器运行时的数据
+file_organizer/Inbox/
+file_organizer/Sorted/
+file_organizer/Backups/
+file_organizer/Logs/
+
+# 独立练习文件
+logging_practice.py
+tests/test_basic.py
+# 仅供本地使用的清理脚本
+file_organizer/cleanup_test_data.py
